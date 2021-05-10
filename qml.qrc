@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/Info/RovFlag.qml</file>
+        <file>qml/Info/RovInfo.qml</file>
+        <file>qml/Info/RovInfoSwitch.qml</file>
+        <file>qml/ToolBar/RovToolbar.qml</file>
+        <file>qml/ToolBar/RovToolButton.qml</file>
+        <file>qml/Video/SubView.qml</file>
+        <file>qml/Video/VideoView.qml</file>
+        <file>qml/View/AboutView.qml</file>
+        <file>qml/View/MainView.qml</file>
+        <file>qml/View/SettingsView.qml</file>
+        <file>qml/KeyHandler.qml</file>
+        <file>qml/Splash.qml</file>
+        <file>qml/ControllWindow.qml</file>
+        <file>qml/Info/BodyDir.qml</file>
+        <file>qml/setting/BaseSetting.qml</file>
+        <file>qml/setting/FolderItem.qml</file>
+        <file>qml/setting/FunctionChoice.qml</file>
+        <file>qml/setting/Head.qml</file>
+        <file>qml/setting/InfoChoice.qml</file>
+        <file>qml/setting/LabelTextField.qml</file>
+        <file>qml/setting/MyCheckBox.qml</file>
+        <file>qml/setting/PicSetting.qml</file>
+        <file>qml/setting/SaveSetting.qml</file>
+        <file>qml/setting/ScreenSetting.qml</file>
+        <file>qml/setting/SettingSlider.qml</file>
+        <file>qml/setting/ShowChoice.qml</file>
+        <file>qml/setting/SliderButton.qml</file>
+        <file>qml/setting/SocketSetting.qml</file>
+        <file>qml/setting/VideoSocketSetting.qml</file>
+        <file>qml/RovGamepad.qml</file>
+        <file>qml/setting/JoyHelp.qml</file>
+        <file>qml/setting/KeyHelp.qml</file>
+    </qresource>
+</RCC>
